@@ -9,7 +9,9 @@ edit_uri: edit/master/docs/docs
 
 ### Build settings ###
 
-theme: readthedocs
+theme: 
+  palette:
+      primary: pink
 
 nav:
   - Home: index.md
