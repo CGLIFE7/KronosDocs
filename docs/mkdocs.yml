@@ -24,3 +24,5 @@ nav:
       - Deploy: tutorial/deploy.md
   - Functions:
       - Kiss: tutorial/kiss.md
+extra:
+  generator: false
