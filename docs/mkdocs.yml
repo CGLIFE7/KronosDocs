@@ -22,3 +22,5 @@ nav:
       - Advanced: tutorial/advanced.md
       - Usage: tutorial/usage.md
       - Deploy: tutorial/deploy.md
+  - Functions:
+      - Kiss: tutorial/kiss.md
