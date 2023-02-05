@@ -7,7 +7,7 @@ face on the other and press kiss.
 ```sh
 $ cd docs
 ```
-
+https://www.youtube.com/watch?v=H51zh25KGGY
 
 ## CLI help
 
