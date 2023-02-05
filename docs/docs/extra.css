@@ -3,5 +3,9 @@ h1 {
 }
 
 .wy-side-nav-search {
-    background-color: red !important;
+    background-color: #F50076 !important;
+}
+
+.wy-side-nav-search input[type="text"] {
+    border-color: #F50076 !important;
 }
