@@ -11,7 +11,7 @@ edit_uri: edit/master/docs/docs
 
 theme: readthedocs
 
-
+extra_css: [extra.css]
 nav:
   - Home: index.md
   - About MkDocs: about-mkdocs.md
