@@ -13,15 +13,10 @@ theme: readthedocs
 
 extra_css: [extra.css]
 nav:
-  - Home: index.md
+  - Kronos: index.md
   - About MkDocs: about-mkdocs.md
   - Tutorial:
-      - TL;DR: tutorial/tldr.md
-      - Installation: tutorial/installation.md
-      - Set up project: tutorial/setup-project.md
-      - Advanced: tutorial/advanced.md
-      - Usage: tutorial/usage.md
-      - Deploy: tutorial/deploy.md
+      - Kiss: tutorial/kiss.md
   - Functions:
       - Kiss: tutorial/kiss.md
 extra:
