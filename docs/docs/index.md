@@ -9,7 +9,7 @@ Follow the tutorial to add an existing project or create a project from scratch.
 
 
 ## What Is KRONOS?
-    > Kronos is a addon to save you time
+> Kronos is a addon to save you time
 
 ## INSTALL
 # INSTALL
