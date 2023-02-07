@@ -13,7 +13,7 @@ theme: readthedocs
 
 extra_css: [extra.css]
 nav:
-  - Kronos: 
+  - 'Kronos': 
      - What Is KRONOS?: 'index.md':
      - INSTALL: 'index.md':
      - SUPPORT: 'index.md':
