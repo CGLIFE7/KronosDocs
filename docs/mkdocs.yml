@@ -1,10 +1,8 @@
 ### Site metadata ###
 
 site_name: Kronos Docs
-site_description: Starter template for a MkDocs docs site on GH Pages - including CI
-site_url: https://michaelcurrin.github.io/mkdocs-quickstart/
+site_description: Official Kronos Documentation
 
-repo_url: https://github.com/MichaelCurrin/mkdocs-quickstart
 edit_uri: edit/master/docs/docs
 
 ### Build settings ###
@@ -18,9 +16,47 @@ nav:
        
 
   
-  - Tutorial:
+  - Using The Menu:
+      - Main Menu: tutorial/kiss.md
+      - Pie Menus: tutorial/kiss.md
+  
+  - Reference:
       - Kiss: tutorial/kiss.md
-  - Functions:
+  
+  - Object:
       - Kiss: tutorial/kiss.md
+
+  - Visibility:
+      - Kiss: tutorial/kiss.md
+  
+  - Graveyard:
+      - Kiss: tutorial/kiss.md
+  
+  - Lighting:
+      - Kiss: tutorial/kiss.md
+  - Animation:
+      - Kiss: tutorial/kiss.md
+  - Tidy:
+      - Kiss: tutorial/kiss.md
+  - Render:
+      - Kiss: tutorial/kiss.md
+
+  - Export:
+      - Kiss: tutorial/kiss.md
+  - Misc:
+      - Kiss: tutorial/kiss.md
+ 
+    
+  - BLOCKR:
+      - What is blocker?: tutorial/kiss.md
+
+  
+  - Mesh Menu Tools:
+      - Kiss: tutorial/kiss.md
+  
+
+
+
+
 extra:
   generator: false
