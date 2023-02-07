@@ -14,7 +14,13 @@ theme: readthedocs
 extra_css: [extra.css]
 nav:
   - Home: 'index.md'
+  - Kronos:
+        - What Is KRONOS?: tutorial/kiss.md
+        - INSTALL: tutorial/kiss.md 
+        - SUPPORT: tutorial/kiss.md
+        - ABOUT: tutorial/kiss.md
 
+  
   - Tutorial:
       - Kiss: tutorial/kiss.md
   - Functions:
