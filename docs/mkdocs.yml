@@ -13,12 +13,8 @@ theme: readthedocs
 
 extra_css: [extra.css]
 nav:
-  
-  - What Is KRONOS?: 'index.md':
-  - INSTALL: 'index.md':
-  - SUPPORT: 'index.md':
-  
-  - ABOUT: 'index.md':
+  - Kronos: index.md
+  - About MkDocs: about-mkdocs.md
   - Tutorial:
       - Kiss: tutorial/kiss.md
   - Functions:
