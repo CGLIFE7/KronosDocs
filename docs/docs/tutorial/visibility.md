@@ -2,28 +2,16 @@
 
 
 
-## Main Menu
+## Find Hidden
 
-The kRONOS main menu is accessed through the w key. 
+Find Hidden allows you to very easy unhide a hidden object without searching through the outliner.
 
-## Pie Menus
+## Catch Sly Objects
 
-Holding W + any of the following keys and moving the mouse will open a unique PIE menu.
+Before rendering, you can run this to be alerted of any objects hidden in the viewport that will
+sneakily show up and and ruin a render. (Nice try Default Cube)
 
-D
+## Shroud
 
-A 
+Just a cool placeholder
 
-SPACE
-
-SHIFT
-
-Pies can be configured in the preferences panel.
-
-## Other Menu items
-
-Other Menu items can be found at:
-
-## Help Shortcuts
-
-Ctrl Clicking any menu item will bring up the respective help page on this doc website.
