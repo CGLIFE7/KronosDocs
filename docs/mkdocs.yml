@@ -2,25 +2,18 @@
 
 site_name: Kronos Docs
 site_description: Official Kronos Documentation
-# site_url: https://michaelcurrin.github.io/mkdocs-quickstart/
 
-# repo_url: https://github.com/MichaelCurrin/mkdocs-quickstart
-# edit_uri: edit/master/docs/docs
-
-### Build settings ###
 
 theme: readthedocs
 
 extra_css: [extra.css]
 nav:
 
-  - Kronos: tutorial/kronos.md
+  - GETTING STARTED: tutorial/kronos.md
        
 
   
-  - Using The Menu:
-      - Main Menu: tutorial/kiss.md
-      - Pie Menus: tutorial/kiss.md
+  - UI AND MENUS: tutorial/interface_and_menus.md
   
   - Reference:
       - Kiss: tutorial/kiss.md
