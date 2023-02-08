@@ -9,37 +9,43 @@ theme: readthedocs
 extra_css: [extra.css]
 nav:
 
-  - GETTING STARTED: tutorial/kronos.md
-       
 
-  
-  - UI AND MENUS: tutorial/interfaceandmenus.md
-  
-  - Reference:
-      - Kiss: tutorial/kiss.md
-  
-  - Object:
-      - Kiss: tutorial/kiss.md
+  - INTRO:
+    - GETTING STARTED: tutorial/kronos.md
+        
 
-  - Visibility:
-      - Kiss: tutorial/kiss.md
+    
+    - UI AND MENUS: tutorial/interfaceandmenus.md
   
-  - Graveyard:
-      - Kiss: tutorial/kiss.md
+  - Operators:
   
-  - Lighting:
-      - Kiss: tutorial/kiss.md
-  - Animation:
-      - Kiss: tutorial/kiss.md
-  - Tidy:
-      - Kiss: tutorial/kiss.md
-  - Render:
-      - Kiss: tutorial/kiss.md
 
-  - Export:
-      - Kiss: tutorial/kiss.md
-  - Misc:
-      - Kiss: tutorial/kiss.md
+    - Visibility: tutorial/visibility.md
+ 
+    - Reference:
+        - Kiss: tutorial/kiss.md
+    
+    - Object:
+        - Kiss: tutorial/kiss.md
+
+    
+    
+    - Graveyard:
+        - Kiss: tutorial/kiss.md
+    
+    - Lighting:
+        - Kiss: tutorial/kiss.md
+    - Animation:
+        - Kiss: tutorial/kiss.md
+    - Tidy:
+        - Kiss: tutorial/kiss.md
+    - Render:
+        - Kiss: tutorial/kiss.md
+
+    - Export:
+        - Kiss: tutorial/kiss.md
+    - Misc:
+        - Kiss: tutorial/kiss.md
  
     
   - BLOCKR:
