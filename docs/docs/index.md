@@ -2,14 +2,7 @@
 
 
 
-## What Is KRONOS?
-> Kronos is a addon to save you time
+## WELCOME TO kRONOS!
 
-## INSTALL
+Select a page on the left to begin!
 
-# INSTALL
-> Kronos is a addon to save you time
-## ABOUT
-
-# ABOUT
-> Kronos is a addon to save you time

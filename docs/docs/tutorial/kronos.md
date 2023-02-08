@@ -21,4 +21,4 @@ Installing kRONOS is easy.
 Contact me at officialcglife@gmail.com
 ## ABOUT
 
-Kronos Is a legendary tool. Enough said.
+> Kronos Is a legendary tool. Enough said.
