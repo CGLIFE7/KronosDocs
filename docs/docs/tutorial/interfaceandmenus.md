@@ -2,7 +2,7 @@
 
 
 
-## Main Menu?
+## Main Menu
 
 The kRONOS main menu is accessed through the w key. 
 
@@ -26,4 +26,4 @@ Other Menu items can be found at:
 
 ## Help Shortcuts
 
-Ctrl CLicking any menu item will bring up the respective help page on this doc website.
+Ctrl Clicking any menu item will bring up the respective help page on this doc website.
