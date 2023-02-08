@@ -13,5 +13,5 @@ sneakily show up and and ruin a render. (Nice try Default Cube)
 
 ## Shroud
 
-Just a cool placeholder
+Just a cool placeholder.
 
