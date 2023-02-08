@@ -22,30 +22,30 @@ nav:
 
     - Visibility: tutorial/visibility.md
  
-    - Reference:
-        - Kiss: tutorial/kiss.md
+    # - Reference:
+    #     - Kiss: tutorial/kiss.md
     
-    - Object:
-        - Kiss: tutorial/kiss.md
+    # - Object:
+    #     - Kiss: tutorial/kiss.md
 
     
     
-    - Graveyard:
-        - Kiss: tutorial/kiss.md
+    # - Graveyard:
+    #     - Kiss: tutorial/kiss.md
     
-    - Lighting:
-        - Kiss: tutorial/kiss.md
-    - Animation:
-        - Kiss: tutorial/kiss.md
-    - Tidy:
-        - Kiss: tutorial/kiss.md
-    - Render:
-        - Kiss: tutorial/kiss.md
+    # - Lighting:
+    #     - Kiss: tutorial/kiss.md
+    # - Animation:
+    #     - Kiss: tutorial/kiss.md
+    # - Tidy:
+    #     - Kiss: tutorial/kiss.md
+    # - Render:
+    #     - Kiss: tutorial/kiss.md
 
-    - Export:
-        - Kiss: tutorial/kiss.md
-    - Misc:
-        - Kiss: tutorial/kiss.md
+    # - Export:
+    #     - Kiss: tutorial/kiss.md
+    # - Misc:
+    #     - Kiss: tutorial/kiss.md
  
     
   - BLOCKR:
