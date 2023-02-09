@@ -19,9 +19,15 @@ nav:
   
   - Operators:
   
-
+    - Object: tutorial/objects.md
     - Visibility: tutorial/visibility.md
- 
+    - Lighting : tutorial/lighting.md
+    - Animation: tutorial/animation.md
+    - Tidy: tutorial/tidy.md
+    - Render: tutorial/render.md
+    - Misc: tutorial/misc.md
+    - Visibility: tutorial/visibility.md
+    - Visibility: tutorial/visibility.md
     # - Reference:
     #     - Kiss: tutorial/kiss.md
     
