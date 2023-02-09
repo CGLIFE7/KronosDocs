@@ -26,8 +26,7 @@ nav:
     - Tidy: tutorial/tidy.md
     - Render: tutorial/render.md
     - Misc: tutorial/misc.md
-    - Visibility: tutorial/visibility.md
-    - Visibility: tutorial/visibility.md
+
     # - Reference:
     #     - Kiss: tutorial/kiss.md
     
@@ -52,14 +51,14 @@ nav:
     #     - Kiss: tutorial/kiss.md
     # - Misc:
     #     - Kiss: tutorial/kiss.md
- 
-    
-  - BLOCKR:
-      - What is blocker?: tutorial/kiss.md
-
-  
   - Mesh Menu Tools:
       - Kiss: tutorial/kiss.md
+    
+  - OTHER TOOLS:
+      - BLOCKR: tutorial/misc.md
+      - FREEZE: tutorial/misc.md
+  
+ 
   
 
 
