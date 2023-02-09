@@ -2,10 +2,28 @@ h1 {
     color: #F50076;
 }
 
+
+h2 {
+    color: #F50076;
+}
 .wy-side-nav-search {
     background-color: #F50076 !important;
 }
 
 .wy-side-nav-search input[type="text"] {
     border-color: #F50076 !important;
+}
+
+.wy-nav-content {
+background-color: #F0EFF4 !important;
+
+}
+
+p {
+color:#F0EFF4;
+
+}
+
+p . internal {
+color:#F0EFF4;
 }
