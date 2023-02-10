@@ -34,7 +34,9 @@ color:#F0EFF4;
 background-color:#2F3039 !important;
 }
 
-
-icon-home {
+.caption-text {
+color: #F50076;
+}
+.icon-home {
 color:#1A1B25 !important;
 }
