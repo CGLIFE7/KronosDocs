@@ -4,7 +4,9 @@
 
 ## Insta Floor
 
-Shut all collections in the outliner.
+Make a floor under the selected object. Can be a plane or a circle(Hold Shift).
+
+![Alt Text](docs\docs\gifs\Insta Floor Gif.gif)
 
 ## Reverse Solidify
 
