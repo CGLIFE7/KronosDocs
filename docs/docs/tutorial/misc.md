@@ -6,7 +6,7 @@
 
 Make a floor under the selected object. Can be a plane or a circle(Hold Shift).
 
-![Alt Text](../docs/gifs/InstaFloorGif.gif)
+![Alt Text](https://kronos.cglife7.com/gifs/InstaFloorGif.gif)
 
 ## Reverse Solidify
 
