@@ -34,10 +34,10 @@ p .internal {
     color: #F50076;
 }
 
-.icon-home {
-    color: #1A1B25 !important;
-}
-
 .wy-side-nav-search a {
     color: #F0EFF4;
+}
+
+.icon-home {
+    color: #1A1B25 !important;
 }
