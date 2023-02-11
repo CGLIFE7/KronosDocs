@@ -2,10 +2,10 @@ h1 {
     color: #F50076;
 }
 
-
 h2 {
     color: #F50076;
 }
+
 .wy-side-nav-search {
     background-color: #F50076 !important;
 }
@@ -15,28 +15,29 @@ h2 {
 }
 
 .wy-nav-content {
-background-color: #F0EFF4 !important;
-
+    background-color: #F0EFF4 !important;
 }
 
 p {
-color: #1A1B25;
-
+    color: #1A1B25;
 }
 
-p . internal {
-color:#F0EFF4;
+p .internal {
+    color: #F0EFF4;
 }
-
 
 .wy-menu-vertical {
-
-background-color:#2F3039 !important;
+    background-color: #2F3039 !important;
 }
 
 .caption-text {
-color: #F50076;
+    color: #F50076;
 }
+
 .icon-home {
-color:#1A1B25 !important;
+    color: #1A1B25 !important;
+}
+
+.wy-side-nav-search a {
+    color: #F0EFF4;
 }
