@@ -12,7 +12,7 @@ Track a vertice from one obj to the vertice of another separate object for anima
 
 ## Morph into other obj
 
-Just a cool placeholder.
+one into another
 
 ## Explode at time
 
