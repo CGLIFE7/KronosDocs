@@ -13,7 +13,7 @@ Close every window in blender.
 
 ## Randomize Array Rotation
 
-Close every window in blender.
+Close every window in blender. 
 
 ## Select Half
 
