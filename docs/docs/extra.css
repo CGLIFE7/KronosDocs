@@ -6,6 +6,10 @@ h2 {
     color: #F50076;
 }
 
+.wy-side-nav-search a {
+    color: #F0EFF4 !important;
+}
+
 .wy-side-nav-search {
     background-color: #F50076 !important;
 }
@@ -32,10 +36,6 @@ p .internal {
 
 .caption-text {
     color: #F50076;
-}
-
-.wy-side-nav-search a {
-    color: #F0EFF4 !important;
 }
 
 .icon-home {
