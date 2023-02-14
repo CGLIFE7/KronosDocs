@@ -26,4 +26,4 @@ Other Menu items can be found at:
 
 ## Help Shortcuts
 
-Ctrl Clicking any menu item will bring up the respective help page on this doc website.
+H - Clicking any menu item will bring up the respective help page on this doc website.
