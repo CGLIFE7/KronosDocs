@@ -9,11 +9,11 @@ Make a floor under the selected object. Can be a plane or a circle(Hold Shift).
 ![Alt Text](../gifs/InstaFloorGif.gif)
 ## Reverse Solidify
 
-Close every window in blender.
+Reverse the direction of solidify modifiers on the selected objects. Useful if you want to edit vertices but the direction is going outward.
 
 ## Randomize Array Rotation
 
-Close every window in blender. 
+Add randomness to an array modifier.
 
 ## Select Half
 
@@ -21,12 +21,12 @@ Close every window in blender.
 
 ## Detail Retopo
 
-Close every window in blender.
+Create a shape for a multires modifier.
 
 ## Open Blend in explorer
 
-Close every window in blender.
+Open the blend file in your os file explorer. Requires the file to be saved.
 
 ## Record GIF
 
-Close every window in blender.
+Choose an area to record and copy a gif of the blender window automatically. You can then paste it somewhere immediately after.
