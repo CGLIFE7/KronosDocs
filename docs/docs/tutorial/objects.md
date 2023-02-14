@@ -4,25 +4,24 @@
 
 ## Create Shell
 
-Find Hidden allows you to very easy unhide a hidden object without searching through the outliner.
+Create Shell is a modal which allows you to add supporting geometry to create a shell of an object, without affecting the geometry of the object.
 
 ## Delete(Keep Child Transforms)
 
-Before rendering, you can run this to be alerted of any objects hidden in the viewport that will
-sneakily show up and and ruin a render. (Nice try Default Cube)
+Delete the selected objects, while maintaining the position of the children afterwards
 
 ## Drop
 
-Just a cool placeholder.
+Drop an object until it's position collides with another
 
 ## Raise
 
-Just a cool placeholder.
+Raise an object until it's position collides with another
 
 ## Displacement to Geo
 
-Just a cool placeholder.
+Converts displacement on a material to geometry.
 
 ## TRACER
 
-Just a cool placeholder.
+Modal to trace 2d shape, for example a logo or blockout.
