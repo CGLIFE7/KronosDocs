@@ -4,11 +4,14 @@
 
 ## Insta Floor
 
-Shut all collections in the outliner.
+Instantly Creates a floor perfectly below the selected object. You can move the mouse left and right to change the scale
+
+- SHIFT: Create a circle instead
 
 ## Reverse Solidify
 
-Close every window in blender.
+Reverse the direction of a solidify modifier, so that the vertices are the opposite way. Great for when you want to sculpt but you can't
+see the vertices as the solidify is extruding out.
 
 ## Randomize Array Rotation
 
