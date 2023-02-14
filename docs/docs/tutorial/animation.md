@@ -4,7 +4,7 @@
 
 ## Follow Path
 
-Just a cool placeholder.
+Make the first selected object follow a second selected path automatically.
 
 ## Track Point to Point
 
@@ -12,8 +12,8 @@ Track a vertice from one obj to the vertice of another separate object for anima
 
 ## Morph into other obj
 
-one into another
+The first selected object will gain a keyframe to morph into the second object.
 
 ## Explode at time
 
-Just a cool placeholder.
+The selected objects will explode at the given time. The fractal settings can be configured.
