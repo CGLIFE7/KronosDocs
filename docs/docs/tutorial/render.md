@@ -4,7 +4,7 @@
 
 ## Mark as Separate
 
-Find Hidden allows you to very easy unhide a hidden object without searching through the outliner.
+Mark object to render as a separate layer. If multiple objects are selected, they will be grouped together on a view layer.
 
 ## Clear Separate
 
@@ -13,12 +13,13 @@ sneakily show up and and ruin a render. (Nice try Default Cube)
 
 ## Render Separate
 
-Just a cool placeholder.
+Render the scene considering the marked objects. Marked objects will be separate view layers based on their assigned groups.
+The scene will be cleaned up after, including all collections and view layers. 
 
 ## Open in Photoshop
 
-Just a cool placeholder.
+Render the scene, and open the rendered image in photoshop automatically after.
 
 ## Render without GUI
 
-Just a cool placeholder.
+Render a still or animation without blender being open. A notification will be send on the computer when the render is finished. The file Output can be changed in the addon preferences.
