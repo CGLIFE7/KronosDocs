@@ -1,6 +1,13 @@
 # Mesh Menu
 
 
+## Point Focus
+
+Focus the active camera on the selected vert, face or edge.
+
+## Origin to selected
+
+Drop an object until it's position collides with another
 
 ## Clone
 
@@ -10,19 +17,17 @@ Duplicate and separate the selected geometry during edit mode.
 
 Delete the selected objects, while maintaining the position of the children afterwards
 
-## Origin to selected
+## Insta Shrinkwrap
 
-Drop an object until it's position collides with another
+Adds a Shrinkwrap-ready plane at the current selected face position.
+
 
 ## Fix Transform
 
-Create Shell is a modal which allows you to add supporting geometry to create a shell of an object, without affecting the geometry of the object.
+Changes the local transform to match the normals of the currently selected face.
 
-## Kiss
+## Mirror at Loop
 
-Delete the selected objects, while maintaining the position of the children afterwards
+Mirrors the object around a selected edge loop/ring.
 
-## Origin to selected
-
-Drop an object until it's position collides with another
 
