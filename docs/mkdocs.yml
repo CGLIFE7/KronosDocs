@@ -51,8 +51,8 @@ nav:
     #     - Kiss: tutorial/kiss.md
     # - Misc:
     #     - Kiss: tutorial/kiss.md
-  - Mesh Menu Tools:
-      - Kiss: tutorial/kiss.md
+  - Mesh Menu:
+      - Tools: tutorial/meshtools.md
     
   - OTHER TOOLS:
       - BLOCKR: tutorial/blockr.md
