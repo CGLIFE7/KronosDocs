@@ -28,21 +28,21 @@ From here, you have three options.
 
 3 Press any hotkey from the text menu on the left to trigger the matching tool.
 
->-By default these keys are :
+>- By default these keys are :
 
->    D
+>-    D
 
->    A 
+>-    A 
 
->    SPACE
+>-    SPACE
 
->    SHIFT
+>-    SHIFT
 
->    RIGHTMOUSE
+>-    RIGHTMOUSE
 
->    LEFTMOUSE
+>-    LEFTMOUSE
 
->    MIDDLEMOUSE
+>-    MIDDLEMOUSE
 
 >- In similar fashion to the pie menu, you can very quickly press w and another key and release immediately after.
 
