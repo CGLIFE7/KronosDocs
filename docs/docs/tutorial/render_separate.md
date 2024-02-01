@@ -4,4 +4,4 @@ Mark objects to render seperately in their own view layer. Several objects can b
 
 Use the render separate button and blender will render out seperate layers based on marked objects.
 
-Use the clear separate button to remove separate objs. 
+Use the clear separate button to remove separate objs.
