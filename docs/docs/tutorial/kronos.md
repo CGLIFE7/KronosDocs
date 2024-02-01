@@ -1,14 +1,6 @@
 <!-- # KRONOS -->
 
-# What Is KRONOS?
-
-Have you ever been using blender, done something tedious and thought, 'why is there no tool for this'?
-
-KRONOS is a toolkit focused on more time designing, less time clicking buttons.
-
-Most KRONOS tools are for general blender operations that many users will encounter, with the odd niche tool scattered along the way.
-
-## INSTALL
+# INSTALL
 
 Install Kronos in 3 easy steps:
 
@@ -22,10 +14,14 @@ Install Kronos in 3 easy steps:
 
 You're all set!
 
+# What Is KRONOS?
+
+Ever used Blender, done something tedious and thought, 'why is there no tool for this'?
+
+KRONOS is a toolkit focused on more designing, less time clicking buttons.
+
+Most tools are for general operations that many users will encounter, with the odd niche tool along the way.
+
 ## SUPPORT
 
 Contact me at xavier @cglife.io for support enquiries.
-
-## ABOUT
-
-Blender from the future, today. Thanks Ton Roosendal!
