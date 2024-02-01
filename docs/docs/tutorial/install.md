@@ -1,4 +1,4 @@
-# INSTALL
+# Install
 
 <!-- 3 step install: -->
 
