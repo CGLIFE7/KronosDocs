@@ -17,6 +17,8 @@ From here, 3 options.
 1. Release W. This pops up the MAIN menu.
 &NewLine;  
 &NewLine;
+&NewLine;  
+&NewLine;
 2. Move your mouse (While holding W still). This pops up the MAIN PIE menu.
    > - With practice you can press W, fling your mouse in the direction of a tool and release W quickly.
 &NewLine;  
