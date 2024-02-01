@@ -58,3 +58,13 @@ footer {
 .wy-menu-vertical li.on a button.toctree-expand {
     display: none !important;
 }
+
+.icon-home {
+    display: none !important;
+}
+
+
+/* .fa-home::before,
+.icon-home::before {
+    content: none !important;
+} */
