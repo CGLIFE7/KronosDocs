@@ -19,7 +19,7 @@ nav:
 
   - Obj:
     - Insta Floor: tutorial/insta_floor.md
-    - Delete Keep Transforms: tutorial/delete_keep_transforms.md
+    - Delete Keep Transforms: tutorial/delete_keep_child_transforms.md
   - Visibility: 
     - Find Hidden: tutorial/find_hidden.md
     - Catch Sly Objs: tutorial/catch_sly_objs.md
