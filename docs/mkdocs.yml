@@ -3,15 +3,11 @@
 site_name: Kronos Docs
 site_description: Official Kronos Documentation
 
-
 theme: readthedocs
-
 extra_css: [extra.css]
 nav:
 
-
   - Start:
-    
     - INSTALL: tutorial/installation.md
     - MENU HOW TO: tutorial/interfaceandmenus.md
     - SUPPORT: tutorial/support.md
@@ -21,23 +17,24 @@ nav:
     - Image Search: tutorial/image_search.md
 
   - Operators:
-  
-    - Object: tutorial/objects.md
-    - Visibility: tutorial/visibility.md
-    - Lighting : tutorial/lighting.md
-    - Animation: tutorial/animation.md
-    - Tidy: tutorial/tidy.md
-    - Render: tutorial/render.md
-    - Misc: tutorial/misc.md
+    - label: Object
+      items:
+        - Object: tutorial/objects.md
+        - Visibility: tutorial/visibility.md
+        - Lighting: tutorial/lighting.md
+        - Animation: tutorial/animation.md
+        - Tidy: tutorial/tidy.md
+        - Render: tutorial/render.md
+        - Misc: tutorial/misc.md
 
-    # - Reference:
-    #     - Kiss: tutorial/kiss.md
+    - label: Reference
+      items:
+        - Kiss: tutorial/kiss.md
     
-    # - Object:
-    #     - Kiss: tutorial/kiss.md
+    - label: Object
+      items:
+        - Kiss: tutorial/kiss.md
 
-    
-    
     # - Graveyard:
     #     - Kiss: tutorial/kiss.md
     
@@ -54,18 +51,13 @@ nav:
     #     - Kiss: tutorial/kiss.md
     # - Misc:
     #     - Kiss: tutorial/kiss.md
+
   - Mesh Menu:
       - Tools: tutorial/meshtools.md
     
   - OTHER TOOLS:
       - BLOCKR: tutorial/blockr.md
       - FREEZE: tutorial/freeze.md
-  
- 
-  
-
-
-
 
 extra:
   generator: false
