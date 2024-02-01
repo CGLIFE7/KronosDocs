@@ -10,6 +10,8 @@ resulting in speed like never before.
 
 ## Menu Tutorial
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 Hold down 'W' (main menu key) to start.
 
 From here, you have three options.
