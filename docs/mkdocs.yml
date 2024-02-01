@@ -33,7 +33,7 @@ nav:
   - Tidy: 
     - Batch Rename: tutorial/batch_rename.md
     - Fully Collapse Outliner: tutorial/fully_collapse_outliner.md
-    - Sort Cams Lights: tutorial/insta_floor.md
+    - Sort Cams Lights: tutorial/sort_cams_lights.md
   - Render Separate: tutorial/render_separate.md
   
   - Misc:
