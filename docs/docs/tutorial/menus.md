@@ -1,24 +1,24 @@
 # Main Menu
 
-The Kronos main menu key is 'W' by default. 
-This can be changed in the preferences, and there is a button to override the default 'W' bind, toggle selection mode.
+The Kronos main menu key is 'W' by default. There is a button to override the default 'W' bind, toggle selection mode.
+This can be changed in preferences.
 
-The important thing is the main menu key is a button one of your fingers naturally sits on. This minimizes the need to move your fingers,
+Make sure the main menu is a key one of your fingers naturally sits on. This removes the need to move your fingers,
 resulting in speed like never before.
 
 ## How To
 
 ![Alt Text](../gifs/MenuGuide.gif)
 
-Hold down 'W' (main menu key) to start.
+Hold 'W' (main menu key) to start.
 
-From here, three options.
+From here, 3 options.
 
-1. Release W (tapping W gives the same result). This pops up the main menu.
+1. Release W (tapping W gives the same result). This pops up the MAIN menu.
 &NewLine;  
 &NewLine;
-2. Move your mouse (While holding W still). This pops up the main pie menu.
-   > - With practice you can press W, fling your mouse in the direction of the tool you want and release W very quickly.
+2. Move your mouse (While holding W still). This pops up the MAIN PIE menu.
+   > - With practice you can press W, fling your mouse in the direction of a tool and release W quickly.
 &NewLine;  
 &NewLine;
 3. Press any hotkey from the text menu on the left to trigger the matching tool.
