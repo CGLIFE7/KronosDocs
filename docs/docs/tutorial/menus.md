@@ -23,7 +23,11 @@ From here, 3 options.
    > - With practice you can press W, fling your mouse in the direction of a tool and release W quickly.
 &NewLine;  
 &NewLine;
+&NewLine;  
+&NewLine;
 3. Press any hotkey from the text menu on the left to trigger the matching tool.
+&NewLine;  
+&NewLine;
    > - For example, pressing W + Space by default triggers image search.
 &NewLine;  
 &NewLine;
