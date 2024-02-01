@@ -8,7 +8,7 @@ Install Kronos in 3 easy steps:
 &NewLine;  
 &NewLine;
 - 2    Enable Kronos in the addon settings. In the Kronos settings, go to 'Setup' and press 'Install Dependencies'.
-&NewLine;
+&NewLine;  
 &NewLine;
 - 3    Restart Blender after seeing the 'Dependencies installed successfully' notice.
 
