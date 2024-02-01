@@ -10,13 +10,12 @@ extra_css: [extra.css]
 nav:
 
 
-  - GETTING STARTED:
-    - Tutorial: tutorial/kronos.md
-    - INSTALL: tutorial/installation.md
-
+  - Get Started:
     
-    - UI AND MENUS: tutorial/interfaceandmenus.md
+    - INSTALL: tutorial/installation.md
+    - MENU TUTORIAL: tutorial/interfaceandmenus.md
     - SUPPORT: tutorial/support.md
+    - TIPS: tutorial/tips.md
   - Operators:
   
     - Object: tutorial/objects.md
