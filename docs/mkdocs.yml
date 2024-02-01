@@ -1,6 +1,6 @@
 ### Site metadata ###
 
-site_name: Kronos Docs
+site_name: Kronos
 site_description: Official Kronos Documentation
 
 
@@ -12,9 +12,9 @@ nav:
 
   - Start:
     
-    - INSTALL: tutorial/installation.md
-    - MENU HOW TO: tutorial/interfaceandmenus.md
-    - SUPPORT: tutorial/support.md
+    - INSTALL: tutorial/install.md
+    - MENUS: tutorial/interfaceandmenus.md
+    - HELP: tutorial/support.md
     - TIPS: tutorial/tips.md
   
   - Reference:
