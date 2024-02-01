@@ -23,7 +23,7 @@ nav:
   - Visibility: 
     - Find Hidden: tutorial/insta_floor.md
     - Catch Sly Objs: tutorial/insta_floor.md
-  - Vault: tutorial/animation.md
+  - Vault: vault.md
    
   - Lighting :
     - HDRI: tutorial/insta_floor.md
