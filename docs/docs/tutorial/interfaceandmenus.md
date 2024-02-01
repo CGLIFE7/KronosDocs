@@ -29,7 +29,3 @@ From here, you have three options.
        - LEFTMOUSE
        - MIDDLEMOUSE
    > - In similar fashion to the pie menu, you can very quickly press W and another key and release immediately after.
-
-## Help Shortcuts
-
-Alt - Clicking any menu item will bring up the respective help page on this doc website.
