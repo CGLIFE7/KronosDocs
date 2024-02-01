@@ -19,29 +19,26 @@ nav:
 
   - Obj:
     - Insta Floor: tutorial/insta_floor.md
-    - Delete Keep Transform: tutorial/insta_floor.md
+    - Delete Keep Transforms: tutorial/delete_keep_transforms.md
   - Visibility: 
     - Find Hidden: tutorial/find_hidden.md
-    - Catch Sly Objs: tutorial/insta_floor.md
+    - Catch Sly Objs: tutorial/catch_sly_objs.md
   - Vault: tutorial/vault.md
    
   - Lighting :
-    - HDRI: tutorial/insta_floor.md
-    - Reflector: tutorial/insta_floor.md
-    - Drop In Light: tutorial/insta_floor.md
-    - Toggle Bloom: tutorial/insta_floor.md
+    - HDRI: tutorial/hdri.md
+    - Reflector: tutorial/reflector.md
+    - Drop In Light: tutorial/drop_in_light.md
+    - Toggle Bloom: tutorial/toggle_bloom.md
   - Tidy: 
-    - Batch Rename: tutorial/insta_floor.md
-    - Fully Collapse Outliner: tutorial/insta_floor.md
+    - Batch Rename: tutorial/batch_rename.md
+    - Fully Collapse Outliner: tutorial/fully_collapse_outliner.md
     - Sort Cams Lights: tutorial/insta_floor.md
-  - Render:
-    - Mark separate: tutorial/insta_floor.md
-    - Clear separate: tutorial/insta_floor.md
-    - Render Seperate: tutorial/insta_floor.md
-    - Render Without GUI: tutorial/insta_floor.md
+  - Render Separate: tutorial/render_separate.md
+  
   - Misc:
     - Open Blend In Explorer: tutorial/open_blend_in_explorer.md
-    - Reverse Solidify: tutorial/insta_floor.md
+    - Reverse Solidify: tutorial/reverse_solidify.md
 
 
   - Mesh Menu:
