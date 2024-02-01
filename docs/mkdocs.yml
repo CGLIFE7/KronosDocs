@@ -18,8 +18,8 @@ nav:
     - Image Search: tutorial/image_search.md
 
   - Obj: tutorial/objects.md
-      - Insta Floor: tutorial/insta_floor.md
-      - Delete Keep Transforms: tutorial/insta_floor.md
+    - Insta Floor: tutorial/insta_floor.md
+    - Delete Keep Transforms: tutorial/insta_floor.md
   - Visibility: tutorial/visibility.md
     - Find Hidden: tutorial/insta_floor.md
     - Catch Sly Objs: tutorial/insta_floor.md
