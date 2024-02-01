@@ -15,11 +15,11 @@ Most KRONOS tools are for general blender operations that many users will encoun
 
 Install Kronos in 3 easy steps:
 
-1   Open Blender as an administrator. Download and install kronos.zip using the 'install' button in Blender preferences (EDIT > PREFERENCES > ADDONS).
+> 1   Open Blender as an administrator. Download and install kronos.zip using the 'install' button in Blender preferences (EDIT > PREFERENCES > ADDONS).
 
-2    Enable Kronos in the addon settings. In the Kronos settings, go to 'Setup' and press 'Install Dependencies'.
+>  2    Enable Kronos in the addon settings. In the Kronos settings, go to 'Setup' and press 'Install Dependencies'.
 
-3    Restart Blender after seeing the 'Dependencies installed successfully' notice.
+>  3    Restart Blender after seeing the 'Dependencies installed successfully' notice.
 
 You're all set!
 
@@ -30,4 +30,4 @@ Contact me at xavier@cglife.io for support enquiries.
 
 ## ABOUT
 
-> Blender from the future, today. Thanks Ton Roosendal!
+Blender from the future, today. Thanks Ton Roosendal!
