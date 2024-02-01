@@ -8,13 +8,13 @@ resulting in speed like never before.
 
 ## How To
 
-![Alt Text](../gifs/MenuGuide.gif)
+![Alt Text](../gifs/vid.mp4)
 
 Hold 'W' (main menu key) to start.
 
 From here, 3 options.
 
-1. Release W (tapping W gives the same result). This pops up the MAIN menu.
+1. Release W. This pops up the MAIN menu.
 &NewLine;  
 &NewLine;
 2. Move your mouse (While holding W still). This pops up the MAIN PIE menu.
