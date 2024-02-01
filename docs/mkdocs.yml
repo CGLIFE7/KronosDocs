@@ -10,12 +10,16 @@ extra_css: [extra.css]
 nav:
 
 
-  - Get Started:
+  - Start:
     
     - INSTALL: tutorial/installation.md
-    - MENU TUTORIAL: tutorial/interfaceandmenus.md
+    - MENU HOW TO: tutorial/interfaceandmenus.md
     - SUPPORT: tutorial/support.md
     - TIPS: tutorial/tips.md
+  
+  - Reference:
+    - Image Search: tutorial/objects.md
+
   - Operators:
   
     - Object: tutorial/objects.md
