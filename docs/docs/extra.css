@@ -41,3 +41,7 @@ p .internal {
 .icon-home {
     color: #1A1B25 !important;
 }
+
+md-footer__inner {
+    display: none
+}
