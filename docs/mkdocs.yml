@@ -20,48 +20,22 @@ nav:
   - Reference:
     - Image Search: tutorial/image_search.md
 
-  - Operators:
-  
-    - Object: tutorial/objects.md
-    - Visibility: tutorial/visibility.md
-    - Lighting : tutorial/lighting.md
-    - Animation: tutorial/animation.md
-    - Tidy: tutorial/tidy.md
-    - Render: tutorial/render.md
-    - Misc: tutorial/misc.md
 
-    # - Reference:
-    #     - Kiss: tutorial/kiss.md
-    
-    # - Object:
-    #     - Kiss: tutorial/kiss.md
+   
+ 
 
-    
-    
-    # - Graveyard:
-    #     - Kiss: tutorial/kiss.md
-    
-    # - Lighting:
-    #     - Kiss: tutorial/kiss.md
-    # - Animation:
-    #     - Kiss: tutorial/kiss.md
-    # - Tidy:
-    #     - Kiss: tutorial/kiss.md
-    # - Render:
-    #     - Kiss: tutorial/kiss.md
+  - Obj: tutorial/objects.md
+  - Visibility: tutorial/visibility.md
+  - Vault: tutorial/animation.md
+  - Lighting : tutorial/lighting.md
+  - Tidy: tutorial/tidy.md
+  - Render: tutorial/render.md
+  - Misc: tutorial/misc.md
 
-    # - Export:
-    #     - Kiss: tutorial/kiss.md
-    # - Misc:
-    #     - Kiss: tutorial/kiss.md
+
   - Mesh Menu:
       - Tools: tutorial/meshtools.md
     
-  - OTHER TOOLS:
-      - BLOCKR: tutorial/blockr.md
-      - FREEZE: tutorial/freeze.md
-  
- 
   
 
 

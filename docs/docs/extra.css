@@ -45,3 +45,11 @@ p .internal {
 md-footer__inner {
     display: none
 }
+
+.rst-versions .rst-current-version {
+    display: none !important;
+}
+
+footer {
+    display: none !important;
+}
