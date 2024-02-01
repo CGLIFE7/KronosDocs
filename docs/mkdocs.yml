@@ -9,9 +9,6 @@ theme: readthedocs
 extra_css: [extra.css]
 nav:
 
-
-  
-    
   - Install: tutorial/install.md
   - Menus: tutorial/menus.md
   - Help: tutorial/support.md
@@ -20,13 +17,9 @@ nav:
   - Reference:
     - Image Search: tutorial/image_search.md
 
-
-   
- 
-
   - Obj: tutorial/objects.md
       - Insta Floor: tutorial/insta_floor.md
-      - Delete(Keep Transforms): tutorial/insta_floor.md
+      - Delete Keep Transforms: tutorial/insta_floor.md
   - Visibility: tutorial/visibility.md
     - Find Hidden: tutorial/insta_floor.md
     - Catch Sly Objs: tutorial/insta_floor.md
@@ -40,7 +33,7 @@ nav:
   - Tidy: tutorial/tidy.md
     - Batch Rename: tutorial/insta_floor.md
     - Fully Collapse Outliner: tutorial/insta_floor.md
-    - Sort Cams/Lights: tutorial/insta_floor.md
+    - Sort Cams Lights: tutorial/insta_floor.md
   - Render: tutorial/render.md
     - Mark as separate: tutorial/insta_floor.md
     - Clear separate: tutorial/insta_floor.md
@@ -54,10 +47,5 @@ nav:
   - Mesh Menu:
       - Tools: tutorial/meshtools.md
     
-  
-
-
-
-
 extra:
   generator: false
