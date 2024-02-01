@@ -53,3 +53,8 @@ md-footer__inner {
 footer {
     display: none !important;
 }
+
+.wy-menu-vertical li.current>a button.toctree-expand,
+.wy-menu-vertical li.on a button.toctree-expand {
+    display: none !important;
+}
