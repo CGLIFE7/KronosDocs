@@ -12,7 +12,7 @@ nav:
 
   - INTRO:
     - GETTING STARTED: tutorial/kronos.md
-        - INSTALL: tutorial/installation.md
+      - INSTALL: tutorial/installation.md
 
     
     - UI AND MENUS: tutorial/interfaceandmenus.md
