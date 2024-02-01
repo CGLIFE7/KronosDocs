@@ -9,4 +9,6 @@ Creates a window of images from a search.
 &NewLine;  
 &NewLine;
    > - Left Click and drag anywhere to move the window
+&NewLine;  
+&NewLine;
    > - Left Click and drag corners to scale
