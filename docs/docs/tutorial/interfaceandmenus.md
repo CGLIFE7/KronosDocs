@@ -17,32 +17,34 @@ Hold down 'W' (main menu key) to start.
 
 From here, you have three options.
 
-    1 Release W(tapping W gives the same result). This pops up the main menu.
-
-    2 Move your mouse(While holding W still). This pops up the main pie menu.
-
-        - With some practise you can press W, fling your mouse in the direction of the tool you want and release w very quickly. See the gif.
 
 
-    3 Press any hotkey from the text menu on the left to trigger the matching tool.
+1 Release W(tapping W gives the same result). This pops up the main menu.
 
-        - By default these keys are :
+2 Move your mouse(While holding W still). This pops up the main pie menu.
 
-        D
+    - With some practise you can press W, fling your mouse in the direction of the tool you want and release w very quickly. See the gif.
 
-        A 
 
-        SPACE
+3 Press any hotkey from the text menu on the left to trigger the matching tool.
 
-        SHIFT
+    - By default these keys are :
 
-        RIGHTMOUSE
+    D
 
-        LEFTMOUSE
+    A 
 
-        MIDDLEMOUSE
+    SPACE
 
-        - In similar fashion to the pie menu, you can very quickly press w and another key and release immediately after.
+    SHIFT
+
+    RIGHTMOUSE
+
+    LEFTMOUSE
+
+    MIDDLEMOUSE
+
+    - In similar fashion to the pie menu, you can very quickly press w and another key and release immediately after.
 
 
 ## Help Shortcuts
