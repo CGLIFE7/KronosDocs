@@ -10,13 +10,13 @@ extra_css: [extra.css]
 nav:
 
 
-  - Start:
+  # - Start:
     
-    - INSTALL: tutorial/install.md
-    - MENUS: tutorial/menus.md
-    - HELP: tutorial/support.md
-    - TIPS: tutorial/tips.md
-  
+  - Install: tutorial/install.md
+  - Menus: tutorial/menus.md
+  - Help: tutorial/support.md
+  - Tips: tutorial/tips.md
+
   - Reference:
     - Image Search: tutorial/image_search.md
 
