@@ -1,6 +1,4 @@
-# Interface and Menus
-
-## Main Menu
+# Main Menu
 
 The Kronos main menu key is 'W' by default. 
 This can be changed in the preferences, and there is a button to override the default 'W' bind, toggle selection mode.
@@ -8,7 +6,7 @@ This can be changed in the preferences, and there is a button to override the de
 The important thing is the main menu key is a button one of your fingers naturally sits on. This minimizes the need to move your fingers,
 resulting in speed like never before.
 
-## Menu Tutorial
+## How To
 
 ![Alt Text](../gifs/MenuGuide.gif)
 

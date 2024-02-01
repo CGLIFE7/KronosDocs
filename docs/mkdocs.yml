@@ -13,7 +13,7 @@ nav:
   - Start:
     
     - INSTALL: tutorial/install.md
-    - MENUS: tutorial/interfaceandmenus.md
+    - MENUS: tutorial/menus.md
     - HELP: tutorial/support.md
     - TIPS: tutorial/tips.md
   
