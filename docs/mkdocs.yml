@@ -1,7 +1,7 @@
 ### Site metadata ###
 
 site_name: Kronos
-site_description: Official Kronos Documentation
+site_description: Kronos Docs
 
 
 theme: readthedocs
@@ -17,29 +17,29 @@ nav:
   - Reference:
     - Image Search: tutorial/image_search.md
 
-  - Obj: tutorial/objects.md
+  - Obj:
     - Insta Floor: tutorial/insta_floor.md
     - Delete Keep Transform: tutorial/insta_floor.md
-  - Visibility: tutorial/visibility.md
+  - Visibility: 
     - Find Hidden: tutorial/insta_floor.md
     - Catch Sly Objs: tutorial/insta_floor.md
   - Vault: tutorial/animation.md
-    - Vault: tutorial/insta_floor.md
-  - Lighting : tutorial/lighting.md
+   
+  - Lighting :
     - HDRI: tutorial/insta_floor.md
     - Reflector: tutorial/insta_floor.md
     - Drop In Light: tutorial/insta_floor.md
     - Toggle Bloom: tutorial/insta_floor.md
-  - Tidy: tutorial/tidy.md
+  - Tidy: 
     - Batch Rename: tutorial/insta_floor.md
     - Fully Collapse Outliner: tutorial/insta_floor.md
     - Sort Cams Lights: tutorial/insta_floor.md
-  - Render: tutorial/render.md
+  - Render:
     - Mark separate: tutorial/insta_floor.md
     - Clear separate: tutorial/insta_floor.md
     - Render Seperate: tutorial/insta_floor.md
     - Render Without GUI: tutorial/insta_floor.md
-  - Misc: tutorial/misc.md
+  - Misc:
     - Open Blend In Explorer: tutorial/open_blend_in_explorer.md
     - Reverse Solidify: tutorial/insta_floor.md
 
