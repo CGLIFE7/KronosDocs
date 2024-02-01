@@ -1,5 +1,7 @@
 # Image Search
 
+![Alt Text](../gifs/maybe.gif)
+
 Creates a window of images from a search.
 
    > - Less Images makes for much faster results.

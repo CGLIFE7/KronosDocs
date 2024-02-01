@@ -8,7 +8,7 @@ resulting in speed like never before.
 
 ## How To
 
-![Alt Text](../gifs/MenuGuide2.gif)
+![Alt Text](../gifs/maybe.gif)
 
 Hold 'W' (main menu key) to start.
 
