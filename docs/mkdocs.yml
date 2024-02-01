@@ -10,7 +10,7 @@ extra_css: [extra.css]
 nav:
 
 
-  # - Start:
+  
     
   - Install: tutorial/install.md
   - Menus: tutorial/menus.md
