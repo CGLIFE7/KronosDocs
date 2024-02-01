@@ -22,6 +22,3 @@ KRONOS is a toolkit focused on more designing, less time clicking buttons.
 
 Most tools are for general operations that many users will encounter, with the odd niche tool along the way.
 
-## SUPPORT
-
-Contact me at xavier @cglife.io for support enquiries.
