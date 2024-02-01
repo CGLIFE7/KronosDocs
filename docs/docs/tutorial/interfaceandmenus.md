@@ -30,19 +30,19 @@ From here, you have three options.
 
 >- By default these keys are :
 
->-    D
+    *D
 
->-    A 
+    *A
 
->-    SPACE
+    *SPACE
 
->-    SHIFT
+    *SHIFT
 
->-    RIGHTMOUSE
+    *RIGHTMOUSE
 
->-    LEFTMOUSE
+    *LEFTMOUSE
 
->-    MIDDLEMOUSE
+    *MIDDLEMOUSE
 
 >- In similar fashion to the pie menu, you can very quickly press w and another key and release immediately after.
 
