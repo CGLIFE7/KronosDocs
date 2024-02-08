@@ -9,44 +9,45 @@ theme: readthedocs
 extra_css: [extra.css]
 nav:
 
-  - Install: tutorial/install.md
-  - Menus: tutorial/menus.md
-  - Help: tutorial/support.md
-  - Tips: tutorial/tips.md
+  - Install: p/install.md
+  - Menus: p/menus.md
+  - Help: p/support.md
+  - Tips: p/tips.md
 
   - Reference:
-    - Image Search: tutorial/image_search.md
+    - Image Search: p/image_search.md
 
   - Obj:
-    - Insta Floor: tutorial/insta_floor.md
-    - Delete Keep Transforms: tutorial/delete_keep_child_transforms.md
+    - Insta Floor: p/insta_floor.md
+    - Delete Keep Transforms: p/delete_keep_child_transforms.md
   - Visibility: 
-    - Find Hidden: tutorial/find_hidden.md
-    - Catch Sly Objs: tutorial/catch_sly_objs.md
-  - Vault: tutorial/vault.md
+    - Find Hidden: p/find_hidden.md
+    - Catch Sly Objs: p/catch_sly_objs.md
+  - Vault: p/vault.md
    
   - Lighting :
-    - HDRI: tutorial/hdri.md
-    - Reflector: tutorial/reflector.md
-    - Drop In Light: tutorial/drop_in_light.md
-    - Toggle Bloom: tutorial/toggle_bloom.md
+    - HDRI: p/hdri.md
+    - Reflector: p/reflector.md
+    - Drop In Light: p/drop_in_light.md
+    - Toggle Bloom: p/toggle_bloom.md
   - Tidy: 
-    - Batch Rename: tutorial/batch_rename.md
-    - Fully Collapse Outliner: tutorial/fully_collapse_outliner.md
-    - Sort Cams Lights: tutorial/sort_cams_lights.md
+    - Batch Rename: p/batch_rename.md
+    - Fully Collapse Outliner: p/fully_collapse_outliner.md
+    - Sort Cams Lights: p/sort_cams_lights.md
   
   - Render: 
-    - Render Separate: tutorial/render_separate.md
-    - Render No GUI: tutorial/batch_rename.md
+    - Render Separate: p/render_separate.md
+    - Render No GUI: p/batch_rename.md
  
+
   
   - Misc:
-    - Open Blend In Explorer: tutorial/open_blend_in_explorer.md
-    - Reverse Solidify: tutorial/reverse_solidify.md
+    - Open Blend In Explorer: p/open_blend_in_explorer.md
+    - Reverse Solidify: p/reverse_solidify.md
 
 
   - Mesh Menu:
-    - Tools: tutorial/meshtools.md
+    - Tools: p/meshtools.md
     
 extra:
   generator: false
