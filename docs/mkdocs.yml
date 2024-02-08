@@ -34,7 +34,11 @@ nav:
     - Batch Rename: tutorial/batch_rename.md
     - Fully Collapse Outliner: tutorial/fully_collapse_outliner.md
     - Sort Cams Lights: tutorial/sort_cams_lights.md
-  - Render Separate: tutorial/render_separate.md
+  
+  - Render: 
+    - Render Separate: tutorial/render_separate.md
+    - Render No GUI: tutorial/batch_rename.md
+ 
   
   - Misc:
     - Open Blend In Explorer: tutorial/open_blend_in_explorer.md
