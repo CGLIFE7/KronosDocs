@@ -19,7 +19,7 @@ h2 {
 }
 
 .wy-nav-content {
-    background-color: #dadada !important;
+    background-color: #F0EFF4 !important;
 }
 
 p {
@@ -72,3 +72,7 @@ footer {
 .icon-home::before {
     content: none !important;
 } */
+
+.wy-menu-vertical li.current>a {
+    background-color: #dadada;
+}
