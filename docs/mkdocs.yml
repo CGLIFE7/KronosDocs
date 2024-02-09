@@ -40,7 +40,7 @@ nav:
     - Render no GUI: tutorial/batch_rename.md
  
   - Blockr: 
-    - blockr: [blockr.md]
+    - blockr: blockr.md
   
   - Misc:
     - Open blend in explorer: tutorial/open_blend_in_explorer.md
