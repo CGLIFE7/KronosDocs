@@ -9,47 +9,47 @@ theme: readthedocs
 extra_css: [extra.css]
 nav:
 
-  - Install: tutorial/install.md
-  - Menus: tutorial/menus.md
-  - Help: tutorial/support.md
-  - Tips: tutorial/tips.md
+  - Install: install.md
+  - Menus: menus.md
+  - Help: support.md
+  - Tips: tips.md
 
   - Reference:
-    - Image search: tutorial/image_search.md
+    - Image search: image_search.md
 
   - Obj:
-    - Insta floor: tutorial/insta_floor.md
-    - Delete keep transform: tutorial/delete_keep_child_transforms.md
+    - Insta floor: insta_floor.md
+    - Delete keep transform: delete_keep_child_transforms.md
   - Visibility: 
-    - Find hidden: tutorial/find_hidden.md
-    - Catch sly objs: tutorial/catch_sly_objs.md
-  - Vault: tutorial/vault.md
+    - Find hidden: find_hidden.md
+    - Catch sly objs: catch_sly_objs.md
+  - Vault: vault.md
    
   - Lighting :
-    - HDRI: tutorial/hdri.md
-    - Reflector: tutorial/reflector.md
-    - Drop in light: tutorial/drop_in_light.md
-    - Toggle bloom: tutorial/toggle_bloom.md
+    - HDRI: hdri.md
+    - Reflector: reflector.md
+    - Drop in light: drop_in_light.md
+    - Toggle bloom: toggle_bloom.md
   - Tidy: 
-    - Batch Rename: tutorial/batch_rename.md
-    - Fully Collapse Outliner: tutorial/fully_collapse_outliner.md
-    - Sort cams lights: tutorial/sort_cams_lights.md
+    - Batch Rename: batch_rename.md
+    - Fully Collapse Outliner: fully_collapse_outliner.md
+    - Sort cams lights: sort_cams_lights.md
   
   - Render: 
-    - Render separate: tutorial/render_separate.md
-    - Render no GUI: tutorial/batch_rename.md
+    - Render separate: render_separate.md
+    - Render no GUI: batch_rename.md
  
   - Blockr: 
     - blockr: blockr.md
     # - blockrtwo: [find_hidden.md]
   
   - Misc:
-    - Open blend in explorer: tutorial/open_blend_in_explorer.md
-    - Reverse solidify: tutorial/reverse_solidify.md
+    - Open blend in explorer: open_blend_in_explorer.md
+    - Reverse solidify: reverse_solidify.md
 
 
   - Mesh Menu:
-    - Tools: tutorial/meshtools.md
+    - Tools: meshtools.md
     
 extra:
   generator: false
