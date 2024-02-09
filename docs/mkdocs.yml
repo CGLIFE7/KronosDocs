@@ -1,7 +1,7 @@
 ### Site metadata ###
 
 site_name: Kronos
-site_description: Kronos Docs
+site_description: Docs
 
 
 theme: readthedocs
@@ -39,7 +39,8 @@ nav:
     - Render separate: tutorial/render_separate.md
     - Render no GUI: tutorial/batch_rename.md
  
-
+  - Blockr: 
+    - blockr: blockr.md
   
   - Misc:
     - Open blend in explorer: tutorial/open_blend_in_explorer.md
