@@ -6,7 +6,7 @@
 
 Make a floor under the selected object. Can be a plane or a circle(Hold Shift).
 
-![Alt Text](../gifs/InstaFloorGif.gif)
+![Alt Text](gifs/InstaFloorGif.gif)
 ## Reverse Solidify
 
 Reverse the direction of solidify modifiers on the selected objects. Useful if you want to edit vertices but the direction is going outward.

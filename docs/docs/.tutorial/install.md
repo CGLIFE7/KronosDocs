@@ -2,7 +2,7 @@
 
 <!-- 3 step install: -->
 
-![Alt Text](../gifs/MenuGuide2.gif)
+![Alt Text](gifs/MenuGuide2.gif)
 
 - 1   Open Blender as an administrator. Download and install kronos.zip using the 'install' button in Blender preferences (EDIT > PREFERENCES > ADDONS).
 &NewLine;  
