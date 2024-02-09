@@ -1,6 +1,6 @@
 # Drop In Light
 
-![Alt Text](../gifs/maybe.gif)
+![Alt Text](gifs/maybe.gif)
 
 Spawns a light halfway between the camera position and world origin.
 

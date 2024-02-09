@@ -1,6 +1,6 @@
 # Toggle Bloom
 
-![Alt Text](../gifs/maybe.gif)
+![Alt Text](gifs/maybe.gif)
 
 Toggles the bloom for current render engine, both cycles or eevee supported.
 

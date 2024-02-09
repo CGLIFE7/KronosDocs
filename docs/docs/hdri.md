@@ -1,6 +1,6 @@
 # Hdri
 
-![Alt Text](../gifs/maybe.gif)
+![Alt Text](gifs/maybe.gif)
 
 Interactive HDRI tool. Make sure you select an hdri in preferences to use.
 

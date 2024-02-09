@@ -1,5 +1,5 @@
 # Fully Collapse Outliner
 
-![Alt Text](../gifs/maybe.gif)
+![Alt Text](gifs/maybe.gif)
 
 Collapses all objects and collections in the outliner.
