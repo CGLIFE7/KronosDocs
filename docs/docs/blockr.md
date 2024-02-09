@@ -1,31 +1,11 @@
-# BLOCKR
+# Batch Rename
 
+![Alt Text](../gifs/maybe.gif)
 
+Select multiple objects and input a name to rename them all with clean numbers, eg
 
-## Insta Floor
+Leg 1
 
-Shut all collections in the outliner.
+Leg 2
 
-## Reverse Solidify
-
-Close every window in blender.
-
-## Randomize Array Rotation
-
-Close every window in blender.
-
-## Select Half
-
-Close every window in blender.
-
-## Detail Retopo
-
-Close every window in blender.
-
-## Open Blend in explorer
-
-Close every window in blender.
-
-## Record GIF
-
-Close every window in blender.
+Leg 3
