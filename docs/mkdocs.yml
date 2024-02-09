@@ -41,7 +41,7 @@ nav:
  
   - Blockr: 
     - blockr: [blockr.md]
-    - blockr2: [blockr.md]
+    - blockrtwo: [find_hidden.md]
   
   - Misc:
     - Open blend in explorer: tutorial/open_blend_in_explorer.md
