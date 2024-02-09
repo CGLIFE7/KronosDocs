@@ -1,6 +1,6 @@
 # Batch Rename
 
-![Alt Text](/gifs/maybe.gif)
+![Alt Text](./gifs/maybe.gif)
 
 Select multiple objects and input a name to rename them all with clean numbers, eg
 
