@@ -39,8 +39,8 @@ nav:
     - Render separate: render_separate.md
     - Render no GUI: batch_rename.md
  
-  - Blockr: 
-    - blockr: blockr.md
+  # - Blockr: 
+  #   - blockr: blockr.md
     # - blockrtwo: [find_hidden.md]
   
   - Misc:
