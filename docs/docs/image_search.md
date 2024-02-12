@@ -4,7 +4,7 @@
 
 Creates a window of images from a search.
 
-   > - Less Images makes for much faster results.
+   > - Choose between google or arstation.
 &NewLine;  
 &NewLine;
    > - Double Click Images to open their page in browser
