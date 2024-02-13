@@ -4,7 +4,7 @@
 
 Creates a window of images from a search.
 
-   > - Choose between google or artation.
+   > - Choose between google or artstation.
 &NewLine;  
 &NewLine;
    > - Double Click Images to open their page in browser
