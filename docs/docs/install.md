@@ -10,4 +10,4 @@
 &NewLine;
 - 3    Press the 'Reload Kronos' button after seeing 'Dependencies installed successfully'.
 
-<!-- ![Alt Text](images/reload.png) -->
+![Alt Text](images/reload.png)
