@@ -2,8 +2,6 @@
 
 <!-- 3 step install: -->
 
-
-
 - 1   Run Blender as an administrator. Download and install kronos.zip using the 'install' button in Blender preferences (EDIT > PREFERENCES > ADDONS).
 &NewLine;  
 &NewLine;
