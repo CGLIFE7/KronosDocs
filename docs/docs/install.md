@@ -2,6 +2,8 @@
 
 <!-- 3 step install: -->
 
+![Alt Text](gifs/maybe.gif)
+
 - 1   Run Blender as an administrator. Download and install kronos.zip using the 'install' button in Blender preferences (EDIT > PREFERENCES > ADDONS).
 &NewLine;  
 &NewLine;
@@ -9,5 +11,3 @@
 &NewLine;  
 &NewLine;
 - 3    Press the 'Reload Kronos' button after seeing 'Dependencies installed successfully'.
-
-![Alt Text](gifs/maybe.gif)
