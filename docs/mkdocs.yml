@@ -37,7 +37,7 @@ nav:
   
   - Render: 
     - Render separate: render_separate.md
-    - Render no GUI: render_no_gui.md
+    - Render no GUI: render_without_gui.md
  
   - Misc:
     - Open blend in explorer: open_blend_in_explorer.md
