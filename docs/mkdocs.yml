@@ -11,8 +11,8 @@ nav:
 
   - Install: install.md
   - Menus: menus.md
-  - Help: support.md
   - Tips: tips.md
+  - Help: support.md
 
   - Reference:
     - Image search: image_search.md

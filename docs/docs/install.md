@@ -6,7 +6,7 @@
  -->
 ![Alt Text](images/Install.png){: style="height:75%;width:75%"}
 
-- 1   Run Blender as administrator. Download/install kronos.zip using the 'install' button in Blender preferences
+- 1   Run Blender as administrator. Download/install kronos.zip using the 'install' button in Blender preferences (EDIT > PREFERENCES)
 
 ![Alt Text](images/Enable.png){: style="height:75%;width:75%"}
 

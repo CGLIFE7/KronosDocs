@@ -4,13 +4,13 @@
 
 Creates a window of images from a search.
 
-   > - Choose between google or artstation.
+   > - Less images and lower quality load much faster
 &NewLine;  
 &NewLine;
-   > - Double Click Images to open their page in browser
+   > - Double click images to open their page in browser
 &NewLine;  
 &NewLine;
-   > - Left Click and drag anywhere to move the window
+   > - Hold left click anywhere and drag to move the window
 &NewLine;  
 &NewLine;
    > - Left Click and drag corners to scale

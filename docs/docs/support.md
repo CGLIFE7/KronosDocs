@@ -1,3 +1,3 @@
 # SUPPORT
 
-Contact me at xavier @cglife.io for support enquiries.
+Contact me at officialcglife @gmail.com for support enquiries.
