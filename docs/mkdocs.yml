@@ -49,6 +49,8 @@ nav:
 extra:
   generator: false
 
+markdown_extensions:
+  - attr_list
 
 
   
