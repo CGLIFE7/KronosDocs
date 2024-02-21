@@ -1,6 +1,10 @@
 # Hdri
 
-![Alt Text](gifs/Hdri.gif)
+<video controls autoplay loop muted style="width: 120%;">
+  <source src="/gifs/hdri_tool.mp4" type="video/mp4">
+</video>
+
+<br>
 
 Interactive HDRI tool. Make sure you select an hdri in preferences to use.
 

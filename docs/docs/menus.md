@@ -9,7 +9,11 @@ resulting in speed like never before.
 
 ## How To
 
-![Alt Text](gifs/MenuGuide2.gif)
+<video controls autoplay loop muted style="width: 120%;">
+  <source src="/gifs/menu_system.mp4" type="video/mp4">
+</video>
+
+<br>
 
 Hold 'W'/Menu key to start.
 

@@ -1,6 +1,10 @@
 # Image Search
 
-![Alt Text](gifs/maybe.gif)
+<video controls autoplay loop muted style="width: 120%;">
+  <source src="/gifs/image_search.mp4" type="video/mp4">
+</video>
+
+<br>
 
 Creates a window of images from a search.
 

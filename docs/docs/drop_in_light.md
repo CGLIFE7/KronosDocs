@@ -1,6 +1,10 @@
 # Drop In Light
 
-![Alt Text](gifs/maybe.gif)
+<video controls autoplay loop muted style="width: 120%;">
+  <source src="/gifs/drop_in_light.mp4" type="video/mp4">
+</video>
+
+<br>
 
 Spawns a light halfway between the camera position and world origin.
 
