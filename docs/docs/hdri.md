@@ -1,6 +1,6 @@
-# Hdri
+<h1> Hdri </h1>
 
-<video controls autoplay loop muted style="width: 120%;">
+<video controls autoplay loop muted style="width: 220%;">
   <source src="/gifs/hdri_tool.mp4" type="video/mp4">
 </video>
 

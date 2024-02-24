@@ -1,6 +1,6 @@
-# Batch Rename
+<h1> Batch Rename </h1>
 
-<video controls autoplay loop muted style="width: 120%;">
+<video controls autoplay loop muted style="width: 220%;">
   <source src="/gifs/batch_rename.mp4" type="video/mp4">
 </video>
 

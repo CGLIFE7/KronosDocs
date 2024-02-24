@@ -1,6 +1,5 @@
 <!-- # KRONOS -->
 
-# INSTALL
 
 <!-- Install Kronos in 3 steps: -->
 

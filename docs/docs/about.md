@@ -1,4 +1,4 @@
-# What Is KRONOS?
+<h1> What Is KRONOS? </h1>
 
 Ever used Blender, done something tedious and thought, 'why is there no tool for this'?
 

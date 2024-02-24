@@ -1,6 +1,6 @@
-# Drop In Light
+<h1> Drop In Light </h1>
 
-<video controls autoplay loop muted style="width: 120%;">
+<video controls autoplay loop muted style="width: 220%;">
   <source src="/gifs/drop_in_light.mp4" type="video/mp4">
 </video>
 

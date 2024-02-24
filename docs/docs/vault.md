@@ -1,6 +1,6 @@
-# Vault
+<h1> Vault </h1>
 
-<video controls autoplay loop muted style="width: 120%;">
+<video controls autoplay loop muted style="width: 220%;">
   <source src="/gifs/vault.mp4" type="video/mp4">
 </video>
 

@@ -1,6 +1,6 @@
-# Fix Transform
+<h1> Fix Transform </h1>
 
-<video controls autoplay loop muted style="width: 120%;">
+<video controls autoplay loop muted style="width: 220%;">
   <source src="/gifs/fix_transform.mp4" type="video/mp4">
 </video>
 

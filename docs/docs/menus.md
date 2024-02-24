@@ -1,15 +1,6 @@
-# Setup
+<h1> Menus </h1>
 
-![Alt Text](images/hotkey.png){: style="height:50%;width:50%"}
-
-Select a new hotkey for the main menu, or click 'override' to swap the default 'W' swap selection tool for kronos menu.
-
-Ensure the menu is a key one of your fingers rests on. This prevents moving your fingers,
-resulting in speed like never before.
-
-## How To
-
-<video controls autoplay loop muted style="width: 120%;">
+<video controls autoplay loop muted style="width: 220%;">
   <source src="/gifs/menu_system.mp4" type="video/mp4">
 </video>
 

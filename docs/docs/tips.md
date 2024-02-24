@@ -1,4 +1,4 @@
-# Tips
+<h1> Tips </h1>
 
 ## Help Shortcuts
 

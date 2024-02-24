@@ -1,6 +1,6 @@
-# Open Blend in explorer
+<h1> Open Blend in explorer </h1>
 
-<video controls autoplay loop muted style="width: 120%;">
+<video controls autoplay loop muted style="width: 220%;">
   <source src="/gifs/open_in_explorer.mp4" type="video/mp4">
 </video>
 
