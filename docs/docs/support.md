@@ -7,12 +7,24 @@ To ensure kronos takes priority of the W tool, you can click  'override' to swap
 <br>
 Else you can set your own keybind in the preferences.
 <br>
-Ensure the menu is a key one of your fingers rests on. This prevents moving your fingers,
+The idea is to ensure the hotkeys are all buttons your fingers rest on. This prevents moving your fingers,
 resulting in speed like never before.
 
+<br>
 
+<h1> Install Button is failing to install dependencies </h1>
 
+If your blender folder is location in a place that requires admin to edit such as C:\Program Files\Blender Foundation\Blender 4.0,
+you will need to launch blender with admin privileges. Most tools will function without installing dependencies, however some require it and
+as such will require you to get admin permissions to run blender and install.
+<br>
+
+ Do of course check you have internet as well and the latest version of blender.
+Versions below the latest blender version may work but are considered unsupported and bugfixes for these versions will be unlikely unless largely requested
+in favour of more development on tools.
+<br>
+<br>
 <h1> SUPPORT </h1>
 
-Contact me at officialcglife @gmail.com for support enquiries.
+Contact me at officialcglife@gmail.com for support enquiries.
 

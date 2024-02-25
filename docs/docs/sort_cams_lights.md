@@ -6,4 +6,4 @@
 
 <br>
 
-Puts all lights and cameras into collections.
+Sorts all lights and cameras into collections.

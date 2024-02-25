@@ -18,7 +18,7 @@ From here, 3 options.
 2. Move your mouse (keep menu key held) for pie menu
 &NewLine;  
 &NewLine;
-   > - With practice you can press W, fling your mouse in a tools direction and release W quickly
+   > - With practice you can press W, fling your mouse in a tools direction and release W quickly. Make sure W is fully held down before beginning to move the mouse.
 &NewLine;  
 &NewLine;
 3. Press a hotkey from the text menu to trigger the corrosponding tool

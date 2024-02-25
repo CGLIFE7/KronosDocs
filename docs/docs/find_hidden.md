@@ -7,4 +7,4 @@
 
 <br>
 
-Run the tool, and then left click a object that appears to 'find' it.
+Run the tool, to reveal all hidden objects, then select a object to keep visible while the rest are re hidden.

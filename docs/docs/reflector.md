@@ -6,4 +6,4 @@
 
 <br>
 
-Spawns a reflector plane lined up with the selected object.
+Spawns a reflector plane lined up with the selected object. Adjust size with leftmouse and position with scrollwheel.

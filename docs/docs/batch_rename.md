@@ -6,7 +6,7 @@
 
 <br>
 
-Select multiple objects and input a name to rename them all with clean numbers, eg
+Select multiple objects and input a name to rename them all with clean numbers, eg. entering leg would give:
 
 Leg 1
 

@@ -6,4 +6,4 @@
 
 <br>
 
-Shuts blender and renders out the scene for increased stability. Has a notification for when finished and the file is outputted.
+Shuts blender and renders out the scene in the background for increased stability. Sends a system notification for when finished and the file is outputted.

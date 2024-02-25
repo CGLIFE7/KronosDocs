@@ -1,7 +1,7 @@
 <h1> Toggle Bloom </h1>
 
 <video controls autoplay loop muted style="width: 220%;">
-  <source src="/gifs/toggle_bloom.mp4" type="video/mp4">
+  <source src="/gifs/bloom_car.mp4" type="video/mp4">
 </video>
 
 <br>

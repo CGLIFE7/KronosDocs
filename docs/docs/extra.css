@@ -76,3 +76,49 @@ footer {
 .wy-menu-vertical li.current>a {
     background-color: #dadada;
 }
+
+video {
+    width: 60vw !important;
+    /* Set initial width to fill the container */
+}
+
+
+/* Media queries for different screen sizes */
+
+
+/* @media (max-width: 600px) {
+    video {
+        width: 90% !important;
+    
+    }
+}
+
+@media (min-width: 601px) and (max-width: 900px) {
+    video {
+        width: 80% !important;
+    
+    }
+}
+
+@media (min-width: 901px) and (max-width: 1200px) {
+    video {
+        width: 70% !important;
+     
+    }
+}
+
+@media (min-width: 1201px) {
+    video {
+        width: 220% !important;
+   
+    }
+} */
+
+
+/* .progressBar::-moz-progress-bar {
+    background-color: #F50076 !important;
+}
+
+.bufferBar {
+    background-color: #FFFFFF !important;
+} */

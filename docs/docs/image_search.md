@@ -17,4 +17,6 @@ Creates a window of images from a search.
    > - Hold left click anywhere and drag to move the window
 &NewLine;  
 &NewLine;
-   > - Left Click and drag corners to scale
+   > - Hold Left mouse and drag corners to scale
+  <br>
+   > - Supports usage of google image search api key <a href='https://kr.cglife.io/google_api_key'>setup</a>

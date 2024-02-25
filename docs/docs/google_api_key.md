@@ -33,3 +33,5 @@ This is slightly faster than without and can be used in the case that image sear
 - 5 Copy the 'Api Key' with the copy button and insert it into kronos in the preferences.
 
 ![Alt Text](api_key/copy_api_key.png){: style="height:75%;width:75%"}
+
+![Alt Text](api_key/insert_keys.png){: style="height:75%;width:75%"}
