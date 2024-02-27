@@ -1,7 +1,7 @@
 <h1> Render Separate </h1>
 
 <video controls autoplay loop muted style="width: 220%;">
-  <source src="/gifs/render_separate.mp4" type="video/mp4">
+  <source src="/gifs/render_separate_v2.mp4" type="video/mp4">
 </video>
 
 <br>
