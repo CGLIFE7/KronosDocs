@@ -1,0 +1,124 @@
+h1 {
+    color: #F50076;
+}
+
+h2 {
+    color: #F50076;
+}
+
+.wy-side-nav-search a {
+    color: #F0EFF4 !important;
+}
+
+.wy-side-nav-search {
+    background-color: #F50076 !important;
+}
+
+.wy-side-nav-search input[type="text"] {
+    border-color: #F50076 !important;
+}
+
+.wy-nav-content {
+    background-color: #F0EFF4 !important;
+}
+
+p {
+    color: #1A1B25;
+}
+
+p .internal {
+    color: #F0EFF4;
+}
+
+.wy-menu-vertical {
+    background-color: #2F3039 !important;
+}
+
+.caption-text {
+    color: #F50076;
+}
+
+.icon-home {
+    color: #1A1B25 !important;
+}
+
+md-footer__inner {
+    display: none
+}
+
+.rst-versions .rst-current-version {
+    display: none !important;
+}
+
+footer {
+    display: none !important;
+}
+
+.wy-menu-vertical li.current>a button.toctree-expand,
+.wy-menu-vertical li.on a button.toctree-expand {
+    display: none !important;
+}
+
+.icon-home {
+    display: none !important;
+}
+
+.wy-breadcrumbs>li {
+    display: none !important;
+}
+
+
+/* .fa-home::before,
+.icon-home::before {
+    content: none !important;
+} */
+
+.wy-menu-vertical li.current>a {
+    background-color: #dadada;
+}
+
+video {
+    width: 60vw !important;
+    /* Set initial width to fill the container */
+}
+
+
+/* Media queries for different screen sizes */
+
+
+/* @media (max-width: 600px) {
+    video {
+        width: 90% !important;
+    
+    }
+}
+
+@media (min-width: 601px) and (max-width: 900px) {
+    video {
+        width: 80% !important;
+    
+    }
+}
+
+@media (min-width: 901px) and (max-width: 1200px) {
+    video {
+        width: 70% !important;
+     
+    }
+}
+
+@media (min-width: 1201px) {
+    video {
+        width: 220% !important;
+   
+    }
+} */
+
+
+/* .progressBar::-moz-progress-bar {
+    background-color: #F50076 !important;
+}
+
+.bufferBar {
+    background-color: #FFFFFF !important;
+} */
