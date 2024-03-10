@@ -23,5 +23,5 @@ If you find a bug not mentioned here, please [report](https://cglife.io/contact#
 <p>Doesn't revert hdri background on cancel</p>
 
 <h4>Prefs</h4>
-<p>Resetting keybinds not saving after</p>
-<p>Error at the bottom of dropdowns</p>
+Reverting keybinds not saving after closing blender - Not sure why this is, but you can manually click save preferences to ensure it does save after reverting
+

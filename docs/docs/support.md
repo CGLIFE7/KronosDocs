@@ -25,6 +25,13 @@ in favour of more development on tools. Currently 3.6 and 4.0+ are supported.
 <br>
 <br>
 
+<h1> Can't bind shift for kronos keybinds </h1>
+
+![Alt Text](images/shift_input.png){: style="height:50%;width:50%"}
+
+Expand the keybind with the arrow on the left, and use the second key input button which will allow shift alone.
+
+
 <h1> Can't move mouse to open pie menu when using trackpad on laptop </h1>
 
 Some laptops depending on software will prevent the mouse from moving while a key is held by default. You will have to search up
