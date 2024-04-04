@@ -47,9 +47,14 @@ nav:
     - Kiss: kiss.md
     - Origin to selected: origin_to_selected.md
     - Fix Transform: fix_transform.md
+    - Clean Mode: clean_mode.md
+    - Create Shell: create_shell.md
   
   - Bugs List:
     - Bugs List : bugs_list.md  
+
+  - Changelog:
+    - Changelog : changelog.md  
 extra:
   generator: false
 
